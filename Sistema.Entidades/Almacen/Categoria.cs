@@ -2,7 +2,7 @@
 
 namespace Sistema.Entidades.Almacen
 {
-    class Categoria
+    public class Categoria
     {
         public int id_categoria { get; set; }
         [Required]
